@@ -1,0 +1,21 @@
+.app{
+  text-align: center;
+}
+
+table {
+width: 400px;
+margin:auto;
+}
+
+
+td {
+ /*  border: 1px solid black; */
+   text-align: center;
+   width: 100px;
+}
+
+button{
+    margin-top: 5px;
+    box-shadow: 2px 3px #05649b;
+  
+}
